@@ -1,0 +1,68 @@
+#sec1 {
+  background-color: #33CCCC;
+}
+
+h1 {
+  font-family: Faster One;
+}
+
+.container {
+padding: 7% 15%;
+}
+
+nav {
+  margin-bottom: 15px;
+}
+
+#img1 {
+  margin-bottom: 20px;
+}
+
+#img2 {
+  margin-bottom: 40px;
+}
+
+.col-lg-4 {
+  border: 2px dashed green;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#par1 {
+  margin-top: 35px;
+  margin-left: 5px;
+  font-family: Ubuntu;
+  font-size: 24px;
+}
+
+#button11 {
+  margin-top: 20px;
+}
+
+#container111 {
+  border: 2px dashed green;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+#h22 {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+#parr44 {
+  margin-top: 20px;
+}
+
+#rowww {
+  padding-top: 40px;
+}
+
+#but2 {
+  color: white;
+  text-decoration: none;
+}
+
+#h141 {
+  margin-bottom: 50px;
+}
